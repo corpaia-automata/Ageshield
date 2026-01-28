@@ -9,11 +9,13 @@ const Index = () => {
       <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-2">
 
         {/* ================= LEFT : WHITE ================= */}
-        <div className="bg-white p-8 md:p-10">
+        <div className="bg-white p-6 md:p-10">
           <div className="space-y-4">
+            <div className="flex justify-center items-center">
 
-            <img src="/mendiv.png" alt="Mendiv Logo" width="120" />
-            <img src="/ageshield.png" alt="AgeShield Logo" width="250" />
+            {/* <img src="/ageshield.png" alt="AgeShield Logo" width="250" /> */}
+            <img src="/agemendiv.png" alt="Mendiv Logo" width="250" />
+            </div>
 
             <p className="text-green-700 text-lg font-bold">
               Doctor-Led Preventive Longevity Programmes
@@ -26,13 +28,15 @@ const Index = () => {
             </p>
 
             <ul className="list-disc list-inside text-gray-700 space-y-2">
-              <li>Most healthcare reacts <strong>after</strong> disease appears</li>
-              <li>Most health check-ups give reports — not direction</li>
-            </ul>
+  <li>Traditional care models prioritise intervention over prevention</li>
+  <li>Many standard check-ups provide information without guidance</li>
+</ul>
+
+
 
             <p className="text-gray-700">
-              <strong>AgeShield works before decline begins</strong>, using{" "}
-              <strong>deep diagnostics, sleep science, and structured medical guidance.</strong>
+              <strong>AgeShield</strong> combines <strong> advanced diagnostics, sleep science, and ongoing medical oversight</strong>, to help individuals understand{" "}
+              their health status early and make informed, preventive decisions.
             </p>
 
             <hr />
