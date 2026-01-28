@@ -6,7 +6,7 @@ const Index = () => {
     <div className="min-h-screen bg-[#fafaf8] flex items-center justify-center p-6">
 
       {/* CENTERED CONTAINER */}
-      <div className="w-full max-w-7xl grid grid-cols-1 md:grid-cols-2">
+      <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-2">
 
         {/* ================= LEFT : WHITE ================= */}
         <div className="bg-white p-8 md:p-10">
@@ -31,7 +31,7 @@ const Index = () => {
             </ul>
 
             <p className="text-gray-700">
-              <strong>AgeShield™ works before decline begins</strong>, using{" "}
+              <strong>AgeShield works before decline begins</strong>, using{" "}
               <strong>deep diagnostics, sleep science, and structured medical guidance.</strong>
             </p>
 
@@ -60,7 +60,7 @@ const Index = () => {
               Poor sleep silently accelerates ageing, metabolic dysfunction, and long-term disease risk.
             </p>
 
-            <p className="text-sm text-gray-500">AgeShield™ includes:</p>
+            <p className="text-sm text-gray-500">AgeShield includes:</p>
 
             <ul className="list-disc list-inside text-gray-700 space-y-2">
               <li>A 1–2 night stay at a premium resort</li>
@@ -71,7 +71,7 @@ const Index = () => {
             <hr />
 
             <h2 className="text-2xl font-semibold text-green-700">
-              AgeShield™ is designed for:
+              AgeShield is designed for:
             </h2>
 
             <ul className="list-disc list-inside text-gray-700 space-y-2">
@@ -84,7 +84,7 @@ const Index = () => {
             <hr />
 
             <p className="text-sm text-gray-500">
-              AgeShield™ is a <strong>preventive health optimisation programme.</strong>{" "}
+              AgeShield is a <strong>preventive health optimisation programme.</strong>{" "}
               It does not replace emergency or primary medical care.
             </p>
 
@@ -101,7 +101,7 @@ const Index = () => {
 
             <p className="text-gray-700 text-lg">
               This form initiates your onboarding into the{" "}
-              <strong>AgeShield™ 1-Year Total Body Optimisation Programme</strong>.
+              <strong>AgeShield 1-Year Total Body Optimisation Programme</strong>.
             </p>
 
             <p className="text-gray-600">
