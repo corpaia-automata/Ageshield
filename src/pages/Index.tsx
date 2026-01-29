@@ -1,6 +1,6 @@
 const Index = () => {
   const GOOGLE_FORM_URL =
-    "https://docs.google.com/forms/d/e/1FAIpQLSeOJTISyVLIVuP8AkWwK1oqrPjVVb3ldGuvNa0hBx7hUNanPQ/viewform?usp=publish-editor";
+    "https://docs.google.com/forms/d/e/1FAIpQLSdL7614QnYYMliFN5MXy2TzDKMAgrfwKWBdscq6KNCOm5ixcg/viewform?usp=dialog";
 
   return (
     <div className="min-h-screen bg-[#fafaf8] flex items-center justify-center p-6">
